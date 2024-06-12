@@ -1,3 +1,9 @@
+void uhul()
+{
+  printf("lalalala");
+
+
+}
 void main ()
 {
   printf("gitHuub pro visual");
